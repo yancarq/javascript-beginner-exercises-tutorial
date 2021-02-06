@@ -32,7 +32,7 @@ function addAllFamilyLuckyNumbers(anArray){
 }
 
 //Enter all your code here:
-
+console.log(family.members[0].lucky_numbers)
 
 //Do not make changes below:
 console.log(addAllFamilyLuckyNumbers(family.members)); 
